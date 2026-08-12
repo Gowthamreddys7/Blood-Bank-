@@ -1,4 +1,4 @@
-# 🩸 Blood Bank Application — Kubernetes Deployment on AWS EC2
+# 🩸 Blood Bank — Kubernetes Deployment on AWS EC2
 
 A containerized Blood Bank web application deployed on a Kubernetes cluster running on AWS EC2. This project demonstrates a production-ready Kubernetes setup with high availability, auto-scaling, persistent storage, and secure configuration management.
 
